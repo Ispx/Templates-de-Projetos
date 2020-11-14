@@ -1,6 +1,6 @@
-# Contact Schedule
+# Project Title
 
-That is an app contact schedule develop in flutter and has the functionality of creating, update, edition, update and delete of contact, besides that is the app has functionality for filter and execution of call.
+Talk about your project
 
 ## Getting Started
 
